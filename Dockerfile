@@ -4,7 +4,7 @@ FROM docker-lamp
 MAINTAINER  liuhong1.happy@163.com
 # 添加环境变量
 ENV USER_NAME admin
-ENV SERVICE_ID kityminder
+ENV SERVICE_ID wecenter
 # 默认暴露80端口
 EXPOSE 80
 # 复制代码
